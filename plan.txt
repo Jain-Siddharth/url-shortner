@@ -1,0 +1,8 @@
+we need to desing a url shortner
+it should take a url and return a shorter url
+try to maintain a total cick
+
+Router 
+POST /URL -> generate a new short url and return 
+GET /url/:shortid -> rediret the user to ther orignal url
+GET  /
